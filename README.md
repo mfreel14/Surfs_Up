@@ -34,3 +34,12 @@ The additional query was created in order to determine the difference in precipi
 
 
 
+## June Precipitation Statistics
+![June perc](https://user-images.githubusercontent.com/691355/130888220-e1ae1f7a-5502-4569-a91b-0acbdc302d7d.png)
+
+
+
+## December Precipitation Statistics 
+![Dec perc](https://user-images.githubusercontent.com/691355/130888177-28931cec-b07f-4fd8-9bbb-e1e67f78b574.png)
+
+

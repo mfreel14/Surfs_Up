@@ -30,7 +30,7 @@ The information gathered about temperature trends will help guide decision makin
 
 When comparing our summer (June) and winter (December) months we can see from the results that the average temperature differs 3.9 degrees.  The average temperature in June was 74 degrees and the average temperature in December was 71 degrees.  There is also a 2 degree difference between the max temperature in June (85) and max temperature in December (83).  We see a greater difference when we look at the minimum temperatures in June (64) and December (56).
 
-The additional query was created in order to determine the difference in precipitation between June and December.  THe average precipitation in June was .13 while the average precipitation in December was .21.  We can also see that the max precipitation for June was 4.43 and the max in December was 6.42.  Additionaly both June and December had days with a min precipitation of 0.
+The additional query was created in order to determine the difference in precipitation between June and December.  The average precipitation in June was .13 while the average precipitation in December was .21.  We can also see that the max precipitation for June was 4.43 and the max in December was 6.42.  Additionaly both June and December had days with a min precipitation of 0.
 
 
 
